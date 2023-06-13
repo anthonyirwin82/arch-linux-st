@@ -1,6 +1,6 @@
 # arch-linux-st
 
-This is a modified Arch Linux st installation package that has the https://st.suckless.org/patches/scrollback/ 
+This is a modified Arch Linux Simple Terminal (st) installation package that has the https://st.suckless.org/patches/scrollback/ 
 patches applied so that you can use a wheel mouse in st to scrollback through history that has flowed off the 
 screen.
 
